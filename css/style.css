@@ -19,7 +19,7 @@ main{
 footer{
 	background: #cccccc;
 	font-family: Aptos, Arial, sans-serif;
-	font-size: 10px;
+	font-size: 12px;
 }
 
 li{
@@ -32,7 +32,7 @@ li{
 h1{
 	text-align: center;
 	font-family: "Gill Sans", sans-serif;
-	color: #00ccff;
+	color: #ccccff;
 	font-size: 36px;
 }
 
